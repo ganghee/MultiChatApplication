@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761103805924",
+    "firebase_url": "https://multichat-3055d.firebaseio.com",
+    "project_id": "multichat-3055d",
+    "storage_bucket": "multichat-3055d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761103805924:android:68d418be0abffd1d",
+        "android_client_info": {
+          "package_name": "com.mobitant.multichatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761103805924-sjn8gnc4uinde4n81do5bkhrqfnav2rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobitant.multichatapplication",
+            "certificate_hash": "774cfe770765f6dc293b34ca85528e9ebcab85da"
+          }
+        },
+        {
+          "client_id": "761103805924-317u0kciv4gefk84adkk3npn5aq62h04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_FfKXrXQDIcMAa8VnjXx9aTdSkVHG090"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761103805924-317u0kciv4gefk84adkk3npn5aq62h04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
