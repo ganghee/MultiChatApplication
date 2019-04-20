@@ -63,6 +63,7 @@ class SplashActivity : AppCompatActivity() {
             builder.show()
         }else{
             startActivity<LoginActivity>()
+            finish()
         }
     }
 
